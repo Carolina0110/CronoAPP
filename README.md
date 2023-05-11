@@ -1,5 +1,5 @@
 # Cronoanálise
-Aplicativo desenvolvido com o intuito de simplificar e automatizar o processo de medição de tempos de descarga para levantamento de uma análise de performance, que antes era realizado de forma manual através de um cronometro e os dados levantados em uma folha de papel. Dessa forma, simplificando o processo e cooperando com o meio ambiente eliminando a utilização de papel no processo.
+Aplicativo desenvolvido na plataforma Low Code PowerApps com o intuito de simplificar e automatizar o processo de medição de tempos de descarga para levantamento de uma análise de performance, que antes era realizado de forma manual através de um cronometro e os dados levantados em uma folha de papel. Dessa forma, simplificando o processo e cooperando com o meio ambiente eliminando a utilização de papel no processo.
 
 Processo Antigo:
 <br><br>
